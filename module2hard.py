@@ -20,7 +20,7 @@ while True:
             print(f"Пароль к числу {n}: {result}")
 
     if n == 0:
-        print("Поздравляю, вы живы!")
+        print("Поздравляю, вы живы! :) ")
         break
 
     if n < 3 or n > 20:
